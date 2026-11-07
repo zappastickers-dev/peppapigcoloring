@@ -2,6 +2,21 @@
     "easy": [
         {
             "bgImageName": "Pippa_pig_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig1.jpg",
+            "subcategory": "Pippa Pig"
+        },
+        {
+            "bgImageName": "Pippa_pig_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig2.jpg",
+            "subcategory": "Pippa Pig"
+        },
+        {
+            "bgImageName": "Pippa_pig_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig8.jpg",
+            "subcategory": "Pippa Pig"
+        },
+        {
+            "bgImageName": "Pippa_pig_coloring_book",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig3.jpg",
             "subcategory": "Pippa Pig"
         },
@@ -25,21 +40,7 @@
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig7.jpg",
             "subcategory": "Pippa Pig"
         },
-        {
-            "bgImageName": "Pippa_pig_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig1.jpg",
-            "subcategory": "Pippa Pig"
-        },
-        {
-            "bgImageName": "Pippa_pig_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig2.jpg",
-            "subcategory": "Pippa Pig"
-        },
-        {
-            "bgImageName": "Pippa_pig_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig8.jpg",
-            "subcategory": "Pippa Pig"
-        },
+        
         {
             "bgImageName": "Pippa_pig_coloring_book",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cpig9.jpg",
